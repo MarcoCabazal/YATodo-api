@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.4.3'
 
 gem 'rails', '~> 5.1.4'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 5.6'
 gem 'active_model_serializers'
 
 group :development, :test do
